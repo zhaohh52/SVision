@@ -1,5 +1,5 @@
 ![header](supports/svision-logo.png)  
-<div align=center><img width="150" height="150" src="https://github.com/zhaohh52/SVision/blob/master/supports/svision-logo.png"/></div>
+<div align=center><img width=30% height=30% src="https://github.com/zhaohh52/SVision/blob/master/supports/svision-logo.png"/></div>
 
 
 SVision is a deep learning-based structural variants caller that takes aligned reads or contigs as input. 
